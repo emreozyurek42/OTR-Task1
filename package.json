@@ -1,0 +1,17 @@
+{
+  "name": "assesment-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Ozyurek",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.0",
+    "inquirer": "^6.0.0"
+  }
+}

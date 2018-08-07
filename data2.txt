@@ -1,0 +1,5 @@
+Doe , John , Male , Red , 3/3/1988
+Smith , Mark , Male , Green , 3/3/1984
+Brown , Adam , Male , Blue , 3/3/1985
+Miller , Kendall , Female , Yellow , 3/3/1986
+Wilson , Jane , Female , Orange , 3/3/1987
