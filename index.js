@@ -79,3 +79,5 @@ program
 
 
 program.parse(process.argv);
+
+module.exports = {output1,output2,output3,byGender,byDob,byLastname};
